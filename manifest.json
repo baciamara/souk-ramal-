@@ -1,0 +1,20 @@
+{
+    "name": "سوق الرمال الذهبية",
+    "short_name": "سوق الرمال",
+    "description": "أول سوق إلكتروني نسائي متكامل في الجزائر - ولاية الوادي",
+    "start_url": "/index.php",
+    "display": "standalone",
+    "background_color": "#fff8f0",
+    "theme_color": "#b8860b",
+    "orientation": "portrait-primary",
+    "lang": "ar",
+    "dir": "rtl",
+    "icons": [
+        {
+            "src": "/uploads/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
